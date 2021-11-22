@@ -6,7 +6,7 @@
          
 <!-- Profile views          -->
 <!-- Taken reference from website :  https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechnicalAmanjeet&label=Visitors&color=0e75b6&style=flat-square" alt="TechnicalAmanjeet" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TechnicalAmanjeet&label=Visitors&color=0e75b6&style=flat-square" alt="TechnicalAmanjeet" /> </p>
 
 <!-- About section -->
 <h5 align="center">
