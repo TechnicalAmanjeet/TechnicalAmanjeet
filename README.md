@@ -1,12 +1,18 @@
+<!-- Header section  -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Amanjeet kumar</h1>
+         
+<!-- Profile views          -->
+<!-- Taken reference from website :  https://github.com/antonkomarev/github-profile-views-counter -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechnicalAmanjeet&label=Visitors&color=0e75b6&style=flat-square" alt="TechnicalAmanjeet" /> </p>
+
+<!-- About section -->
 <h5 align="center">
 A 4th-year student pursuing Bachelors in Computer science studies with a specialization of AIML. I am a Data Science enthusiast, Web developer, passionate in Devops and Cloud. 
 </h5>
- <!-- Taken reference from website :  https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechnicalAmanjeet&label=Profile%20views&color=0e75b6&style=flat-square" alt="TechnicalAmanjeet" /> </p>
+
 
 <p>
 <a align= "center" href="https://github.com/TechnicalAmanjeet">
