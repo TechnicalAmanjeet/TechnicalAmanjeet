@@ -7,11 +7,11 @@ A 4th-year student pursuing Bachelors in Computer science studies with a special
 </h5>
  <!-- Taken reference from website :  https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TechnicalAmanjeet&label=Profile%20views&color=0e75b6&style=flat-square" alt="TechnicalAmanjeet" /> </p>
+
 <p>
 <a align= "center" href="https://github.com/TechnicalAmanjeet">
 <!-- i have made below https location from : https://github-readme-streak-stats.herokuapp.com/demo/ -->
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=TechnicalAmanjeet&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
-
 <!-- added gif file into program -->
 <img align="right" height="350" width="400" src="https://github.com/TechnicalAmanjeet/TechnicalAmanjeet/blob/main/gif/ezgif.com-gif-maker.gif" /> </a>
 </p>
@@ -33,10 +33,11 @@ A 4th-year student pursuing Bachelors in Computer science studies with a special
 <!-- linkedin link -->
 <a href="https://www.linkedin.com/in/technicalamanjeet/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Amanjeet kumar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- youtube link -->
-<a href="https://www.youtube.com/channel/UCf4cBertAY5l89lQMPj-iEg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube-play.png" alt="imbkamanjeet" height="50" width="50" /></a>
-</p>
+<a href="https://www.youtube.com/channel/UCf4cBertAY5l89lQMPj-iEg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube-play.png" alt="imbkamanjeet" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Instagram link -->
-<a href="https://www.instagram.com/imbkamanjeet/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="imbkamanjeet" height="50" width="50" /></a>
+<a href="https://www.instagram.com/imbkamanjeet/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="imbkamanjeet" height="50" width="50" /></a>         
+</p>
+
 
 <hr>
 
