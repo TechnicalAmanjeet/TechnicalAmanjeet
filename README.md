@@ -12,7 +12,7 @@ A 4th-year student pursuing Bachelors in Computer science studies with a special
 <!-- i have made below https location from : https://github-readme-streak-stats.herokuapp.com/demo/ -->
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=TechnicalAmanjeet&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
 
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="350" width="400" src="https://github.com/TechnicalAmanjeet/TechnicalAmanjeet/blob/main/gif/ezgif.com-gif-maker.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
 
