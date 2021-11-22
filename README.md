@@ -12,9 +12,12 @@ A 4th-year student pursuing Bachelors in Computer science studies with a special
 <!-- i have made below https location from : https://github-readme-streak-stats.herokuapp.com/demo/ -->
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=TechnicalAmanjeet&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
 
+<!-- added gif file into program -->
 <img align="right" height="350" width="400" src="https://github.com/TechnicalAmanjeet/TechnicalAmanjeet/blob/main/gif/ezgif.com-gif-maker.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
+
+ <!-- below link i have generated from : https://github.com/anuraghazra/github-readme-stats -->
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=TechnicalAmanjeet&count_private=true&theme=dark&show_icons=true" />
 
 <p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p>
 
