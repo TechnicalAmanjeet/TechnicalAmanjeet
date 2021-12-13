@@ -41,7 +41,7 @@ A 4th-year student pursuing Bachelors in Computer science studies with a special
 <!-- youtube link -->
 <a href="https://www.youtube.com/channel/UCf4cBertAY5l89lQMPj-iEg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube-play.png" alt="imbkamanjeet" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Instagram link -->
-<a href="https://www.instagram.com/imbkamanjeet/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="imbkamanjeet" height="50" width="50" /></a>         
+<a href="https://www.instagram.com/technicalamanjeet/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="imbkamanjeet" height="50" width="50" /></a>         
 </p>
 
 
